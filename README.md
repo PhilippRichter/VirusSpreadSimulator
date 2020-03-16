@@ -1,1 +1,5 @@
 # VirusSpreadSimulator
+
+Launch
+
+`python virusspreadsimulator`
