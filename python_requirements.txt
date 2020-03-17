@@ -3,3 +3,4 @@ pytype==2020.2.20
 pytest==5.4.1
 yapf==0.29.0
 pandas==1.0.2
+plotly==4.5.4
