@@ -1,5 +1,5 @@
 mypy==0.770
 pytype==2020.2.20
 pytest==5.4.1
-yapf==0.29.0-py2.py3-none-any.whl
+yapf==0.29.0
 pandas==1.0.2
