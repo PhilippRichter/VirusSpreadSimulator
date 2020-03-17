@@ -2,7 +2,7 @@ import pandas as pd
 import logging
 from typing import List, TextIO
 import importlib.resources as pkg_resources
-import data  # relative-import the *package* containing the data
+import data
 
 
 def main() -> None:
