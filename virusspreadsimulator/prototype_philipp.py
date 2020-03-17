@@ -5,7 +5,7 @@ import importlib.resources as pkg_resources
 import data
 
 
-def main() -> None:
+def main_philipp() -> None:
     logger = logging.getLogger(__name__)
 
     # download airport info data

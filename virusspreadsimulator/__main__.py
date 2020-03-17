@@ -1,5 +1,5 @@
 import logging
-from prototype_philipp import main
+from prototype_philipp import main_philipp
 
 logging.basicConfig(
     level=logging.DEBUG,
@@ -8,4 +8,4 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 logger.info('Launched through __main__.py')
 
-main()
+main_philipp()
